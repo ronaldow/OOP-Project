@@ -1,0 +1,112 @@
+19 Jun 17
+
+GitHub: Place for Repository 
+Visual Paradigm Community
+
+	1. Create Git Hub account
+	2. Define business process
+	3. Define Application
+	4. Define & Identify Object
+	5. Define & Identify Method
+	6. Define & Identify Attribute
+	7. Make project name
+
+Project: (Shinta, Jo, Ronal, Indra, Arthur, Iqbal)
+	- Chef market place 
+	- Drafter market place
+	- Health record data (cloud) > so every hospital could access
+	- RT/RW software (CSR) for fund managing, connecting to participants
+	
+	1. Create Repository (using GitHub)
+	2. Define Business Process:
+		a. Identify Business Needs: Creativity from Chef skill is difficult to be identified through CV/paper only; Increasing of Horeca business; Increasing cooking trend; Easy for Horeca busness to get the right person
+		b. Create Business Process:
+		Project: Chef Market Place
+		Name: Kitchen Network 
+		Jobstreet versi Chef
+		Business Process:
+			i. Customer Segment : Student, Pro, Restaurant, Hotel, (Horeca) 
+			ii. Customer Relationship: school & horeca event activities
+			iii. Offer/value proposition: market place
+			iv. Key Activities: database, profiling, 
+			v. Key Resources: Database
+			vi. Partner Network: Chef/Hotel/Tourism Association
+			vii. Distributor Channel: Event/Point of sales, website & mobile apps
+			viii. Cost structure: Event cost
+			ix. Revenue Stream: Advertising 3rd Party, Membership,  Job vacancy
+	
+		c. Define Features:
+		-Log In/Sign Up
+		-Upload/Attachment CV
+		-Forms (CV/Profile, Portfolio, Statistic)
+		-Filter
+		-Search
+		-Follow
+		-Recommendation
+		-Send Message
+		-Comment
+		-Viewer
+		-Like
+		-Payment (Cash, CC, etc)
+
+	3. Define Application (System Process):
+		a. Define & identify Object: Profile; Recommendation; Photo Gallery; Video Gallery; Articles (Recipe, News, Tips & Trick); Search; Event;  Payment; Advertising
+		b. Define & Identify Function/Method:
+			i. Profile> Get Biodata; Get CV; Upload portfolio (cocking results/picture)
+				1) Attribute Biodata: Description (text); Location (database); Specialty (option: hot, cold, pastry); Look for job (option: full, part time); Expectation (number)
+				2) Attribute CV: Name; Age; Gender; Objective; Job Experience (Text Title, Employer, year of services); Academic (School Name; Major; year of schools); Achievement (Title; Description; Year) 
+				3) Attribute Portfolio: upload photo final results; upload photo cooking process; food title; food description; food tag; difficulty (text by association); ingredient (text); time preparation; time cooking 
+			ii. Recommendation>  
+			iii. Photo Gallery> Get portfolio photo, 
+				1) Attribute Photo Gallery: food title; food tag; photo  
+			iv. Video Gallery>
+			v. Articles>
+			vi. Search>
+			vii. Event>
+			viii. Payment>
+			ix. Advertising>
+			
+		c. Define & Identify Attribute/Variable/Properties: see point 3.b.
+		d. Create Use Case Diagram
+		e. Create Class Diagram
+		f. Create Entity Relationship Diagram
+
+	4. Development Process
+
+PR: 
+-Install GitHub & Visual Paradigm
+-Selesaikan Object/Class > Function/Method > Attribute/Variable
+-Buat use case diagram & class diagram dengan Visual Paradigm
+-Upload semua info ke GitHub (saya sdh buka folder repository di account saya: ronaldow; 
+silahkan clone ke GitHub desktop teman teman)
+
+> Pa Alfa Irawan GitHub account: AlfaIrawan; email: alfa.irawan@outlook.com 
+> Ronaldo GitHub account: ronaldow; email: ronaldo.winarto@gmail.com
+> Shinta GitHub account: shintaamaliaputri; email: shintaamaliaputri@gmail.com
+> Arthur GitHub account: arsiahaa; email: arthur_siahaan@yahoo.com
+> Joe GitHub account: joearifiando; email: joearifiando92@gmail.com
+> Indra GitHub account:fransiscus88; email: fransiscus.indra@ymail.com
+> Iqbal GitHub account: iqbalazuardi; email: iqbalzrd@gmail.com
+
+21 Jun 17 > Ronaldo, Shinta, Indra absen
+
+03 Jul 17 > Shinta, Iqbal absen
+
+Type data:
+Number: Float, Integer, Decimal, Double, Currency
+String: VarChar; Char
+Boolean: True/False
+Blob: image
+
+yg terupdate berdasarkan kelas kemarin di file ini 
+https://github.com/ronaldow/OOP-Project/blob/master/Kitchen%20Network%20Project/System%20Process/KitchenNetwork.vpp 
+
+di file tersebut (satu file) di dalamnya sdh terdapat 3 diagram: 
+1.Use Case Diagram (working flow dari gambar orang);  
+2.Class Diagram (flow dari Class (object); Function (method); Attributes (variable) untuk membuat coding programming) 
+3.Entity Relationship Diagram/ERD (flow variable untuk membuat database)
+
+Kondisi saat ini: 
+kita harus mengupdate tipe data dari masing-masing variable yang ada di Class Diagram & Entity Relationship Diagram; 
+serta mengupdate hubungan/association (1 to 1; 1 to many; many to many) antara Class atau Variable. 
+Setelah mengupdate semua maka PR untuk Rabu adalah membuat coding untuk masing2 Class yang sudah dibuat seperti contoh coding yang dibuat Pa Alfa di hari2 pertama kelas.
