@@ -2,15 +2,15 @@
 
 class FoodPortfolioContent {
 	public $FoodFinalPath;
-	public $FoodFinalFile;
 	public $FoodinProcessPath;
-	public $FoodinProcessFile;
 	public $FoodTitle;
 	public $FoodDescription;
 	public $Difficulty;
 	public $Ingredients;
 	public $TimeDuration;
 	public $IsLike;
+	public $FoodFinalFile;
+	public $FoodinProcessFile;
 
 	public function CreatePortfolio () {
 		# code...
