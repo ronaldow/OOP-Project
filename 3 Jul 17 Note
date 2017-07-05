@@ -110,3 +110,20 @@ Kondisi saat ini:
 kita harus mengupdate tipe data dari masing-masing variable yang ada di Class Diagram & Entity Relationship Diagram; 
 serta mengupdate hubungan/association (1 to 1; 1 to many; many to many) antara Class atau Variable. 
 Setelah mengupdate semua maka PR untuk Rabu adalah membuat coding untuk masing2 Class yang sudah dibuat seperti contoh coding yang dibuat Pa Alfa di hari2 pertama kelas.
+
+05 Jul 17 > Shinta & Joe absen
+
+Tasks:
+1. Demo Class/object: Define Private & Public; Define Import Class
+2. Create Database
+3. Create FE Sample
+
+Buat database dan password di myphpadmin
+
+PR:
+-Buat Website/FrontEnd sesimple mungkin sesuai KitchenNet project
+-Lengkapi coding Class dll (private/public, coding, etc)
+-Buat Folder file sesuai struktur:
+Kitchen Net > Class > Object object
+			> Front End file
+			> Etc
