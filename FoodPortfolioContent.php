@@ -1,8 +1,10 @@
 <?php
 
 class FoodPortfolioContent {
-	public $FoodFinalPresentationPhoto;
-	public $FoodinProcessPhotos;
+	public $FoodFinalPath;
+	public $FoodFinalFile;
+	public $FoodinProcessPath;
+	public $FoodinProcessFile;
 	public $FoodTitle;
 	public $FoodDescription;
 	public $Difficulty;
