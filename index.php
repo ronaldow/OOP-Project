@@ -1,3 +1,9 @@
+<?php
+	require "login.php";
+	
+	$login = new Login();
+	$login->
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,27 +21,27 @@
   </head>
   <body>
 
-<form class="form-inline">
+<form class="form-inline" action="login.php" method="POST" >
   <div class="form-group">
     <label class="sr-only" for="exampleInputEmail3">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail3" placeholder="Username">
+    <input type="email" class="form-control" id="Username" placeholder="Username">
   </div>
   <div class="form-group">
     <label class="sr-only" for="exampleInputPassword3">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword3" placeholder="Password">
+    <input type="password" class="form-control" id="Password" placeholder="Password">
   </div>
   <div class="checkbox">
     <label>
       <input type="checkbox"> Remember me
     </label>
   </div>
-  <button type="submit" class="btn btn-default">Log in</button>
+  <button class="btn btn-default">Log in</button>
 </form>
 	
   <h2>Create a new account</h2>
   <h6>Choose User Type:</h6>
 
-<form class="form-inline">
+<form class="form-inline" action="index_coba.php" method="post">
 <select class="form-control" id="UserType">
     <option>Horeka</option>
     <option>Chef/Student</option>
