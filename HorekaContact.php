@@ -6,9 +6,7 @@ public class HorekaContact {
 	public $Address;
 	public $OfficePhoneNumber;
 	
-	public function Operation () {
-		
-	} 	
+	
 }
 
 

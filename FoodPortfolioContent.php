@@ -11,6 +11,7 @@ class FoodPortfolioContent {
 	public $IsLike;
 	public $FoodFinalFile;
 	public $FoodinProcessFile;
+	public $PortfolioID;
 
 	public function CreatePortfolio () {
 		# code...

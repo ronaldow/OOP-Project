@@ -3,8 +3,9 @@
 class JobExperience {
 	public $JobTitle;
 	public $JobDescription;
-	public $Company;
+	public $Employer;
 	public $YearsOfServices;
+	public $ExpID;
 
 	public function CreateCV () {
 		# code...

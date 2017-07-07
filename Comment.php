@@ -4,6 +4,7 @@ class Comment {
 	public $Comment;
 	public $Reply;
 	public $IsLike;
+	public $CommentID;
 
 	public function CreateComment () {
 		# code...

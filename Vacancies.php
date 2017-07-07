@@ -7,6 +7,7 @@ class Vacancies {
 	public $IsPartTime;
 	public $Location;
 	public $OfferedSalary;
+	public $JobID;
 	
 	public function CreateVacancy(){
 		
